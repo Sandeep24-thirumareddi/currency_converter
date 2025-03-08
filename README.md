@@ -17,7 +17,7 @@ Technologies Used :
  
 Installation :
  1.Clone the repository to your local machine.
-        git clone https://github.com/yourusername/currency-converter.git
+        https://github.com/Sandeep24-thirumareddi/currency_converter.git
         
  2.Navigate into the project directory.
         cd currency-converter
